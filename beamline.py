@@ -101,7 +101,7 @@ class M1(OE):
         oe.RMIRR = 2108.8753452152337
         oe.RWIDX1 = 20.0
         oe.RWIDX2 = 20.0
-        oe.T_IMAGE = 3500.0
+        oe.T_IMAGE = 35.0
         oe.T_INCIDENCE = 80.825
         oe.T_REFLECTION = 80.825
         oe.T_SOURCE = 0.0
@@ -140,7 +140,7 @@ class M2(OE):
         oe.SIMAG = 14095.0
         oe.SSOUR = 14095.0
         oe.THETA = 82.75
-        oe.T_IMAGE = 1905.0
+        oe.T_IMAGE = 19.05
         oe.T_INCIDENCE = 82.75
         oe.T_REFLECTION = 82.75
         oe.T_SOURCE = 0.0
